@@ -1,4 +1,4 @@
-module smartit_word_counter
+module github.com/kzozulya1/smartit_word_counter_demo
 
 go 1.16
 

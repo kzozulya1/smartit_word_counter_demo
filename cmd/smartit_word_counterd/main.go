@@ -2,9 +2,10 @@ package main
 
 import (
 	"log"
-	"smartit_word_counter/internal/analyzer"
-	"smartit_word_counter/internal/fileutils"
 	"sync"
+
+	"github.com/kzozulya1/smartit_word_counter_demo/internal/analyzer"
+	"github.com/kzozulya1/smartit_word_counter_demo/internal/fileutils"
 )
 
 const (
